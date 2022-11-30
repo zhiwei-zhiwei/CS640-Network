@@ -1,0 +1,2 @@
+run:
+	javac Iperfer.java
